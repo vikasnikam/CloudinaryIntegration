@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "341648063369",
+    "project_id": "gplustest-6a70b"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341648063369:android:16f8a7388503e860",
+        "android_client_info": {
+          "package_name": "com.vikas.dreamworthtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341648063369-hbkjp8rfiadia11bjq5rq695gt1ee9as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vikas.dreamworthtest",
+            "certificate_hash": "5e66b6c91e5ce19d32e8deea7002ed77777878d3"
+          }
+        },
+        {
+          "client_id": "341648063369-56le3t54v4su3cr2hac32n7u15k7ui14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD-yRjqj2yyoHTetk3yQwdcJWSF2UzI48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
